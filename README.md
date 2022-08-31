@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paul C. Ikeadim 
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Cloud Development  
-- 💞️ I’m looking forward to collaborating with you on any cloud development project 
+- 💞️ I’m looking forward to collaborating with you on any cloud engineer role  
 - 📫 You can reach me via cpaul741@gmail.com
 
 <!---
