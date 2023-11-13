@@ -1,6 +1,6 @@
-<h1> 👋 Hi, I'm Paul C. Ikeadim! <br/><a href="https://github.com/paulmercy">Cloud Engineer ☁️</a>, 
-<a href="https://www.linkedin.com/in/paulmercy/">Devops Engineer 🛠️</a></h1>
-<a href="https://www.linkedin.com/in/paulmercy/">IT Support Professional 🤝</a>, 
+<h1>Hi, I'm Paul C. Ikeadim! 👋<br/><a href="https://github.com/paulmercy">Cloud Engineer ☁️</a>, 
+<a href="https://www.linkedin.com/in/paulmercy/">Devops Engineer 🛠️</a>,
+<a href="https://www.linkedin.com/in/paulmercy/">IT Support Professional 🤝</a></h1>
 
 <h2>👨‍💻 Devops Engineer Projects:</h2>
 
@@ -26,18 +26,18 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/paulmercy/)
 
-<h2>👀 Project Deliverables:</h2>
-- Infrastructure setup documentation 📄
-- Containerized application with deployment scripts 🐳🚀
-- CI/CD pipelines for automated testing and deployment 🔄
-- Monitoring and logging configurations 📊🪵
+- <h2>👀 Project Deliverables:</h2>
+  - Infrastructure setup documentation 📄
+  - Containerized application with deployment scripts 🐳🚀
+  - CI/CD pipelines for automated testing and deployment 🔄
+  - Monitoring and logging configurations 📊🪵
 
-<h2>Technologies Used:</h2>
-- Cloud Platform: AWS (Amazon Web Services) ☁️
-- Containerization: Docker 🐳
-- Orchestration: Kubernetes 🚢
-- CI/CD: Github Action 🚀
-- Monitoring: Prometheus, Grafana 📊
+- <h2>Technologies Used:</h2>
+  - Cloud Platform: AWS (Amazon Web Services) ☁️
+  - Containerization: Docker 🐳
+  - Orchestration: Kubernetes 🚢
+  - CI/CD: Github Action 🚀
+  - Monitoring: Prometheus, Grafana 📊
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -48,7 +48,7 @@
 [twitter]: https://twitter.com/paulmeric.nft
 [instagram]: https://www.instagram.com/paulmeric_/
 [linkedin]: https://linkedin.com/in/paul-ikeadim
-
+<br>
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Cloud Development  
 - 💞️ I’m looking forward to collaborating with you on any cloud engineer role  
