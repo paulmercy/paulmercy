@@ -27,17 +27,21 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/paulmercy/)
 
 - <h2>👀 Project Deliverables:</h2>
+<li>
   - Infrastructure setup documentation 📄
   - Containerized application with deployment scripts 🐳🚀
   - CI/CD pipelines for automated testing and deployment 🔄
   - Monitoring and logging configurations 📊🪵
+</li>
 
 - <h2>Technologies Used:</h2>
+<li>
   - Cloud Platform: AWS (Amazon Web Services) ☁️
   - Containerization: Docker 🐳
   - Orchestration: Kubernetes 🚢
   - CI/CD: Github Action 🚀
   - Monitoring: Prometheus, Grafana 📊
+</li>
 
 <h2> 🤳 Connect with me:</h2>
 
