@@ -34,6 +34,7 @@
 - Monitoring and logging configurations 📊🪵
 
 <h2>Technologies Used:</h2>
+
 - Cloud Platform: AWS (Amazon Web Services) ☁️
 - Containerization: Docker 🐳
 - Orchestration: Kubernetes 🚢
