@@ -1,30 +1,30 @@
 <h1>Hi, I'm Paul C. Ikeadim! 👋<br/><a href="https://github.com/paulmercy">Cloud Engineer ☁️</a>, 
-<a href="https://www.linkedin.com/in/paulmercy/">Devops Engineer 🛠️</a>,
-<a href="https://www.linkedin.com/in/paulmercy/">IT Support Professional 🤝</a></h1>
+<a href="https://www.github.com/paulmercy/">Devops Engineer 🛠️</a>,
+<a href="https://www.linkedin.com/in/paul-ikeadim/">IT Support Professional 🤝</a></h1>
 
 <h2>👨‍💻 Devops Engineer Projects:</h2>
 
 - <b>Infrastructure Setup</b>
-  - [Choose a cloud provider (e.g., AWS, Azure, GCP)](https://github.com/paulmercy/)
+  - [Choose a cloud provider (e.g., AWS, Azure)]
   - Set up a virtual network, subnets, and security groups.
   - Deploy a database server and configure data replication for high availability.
   - Implement auto-scaling groups for application servers.
   
 - <b>Application Deployment</b>
-  - [Containerize the web application using Docker](https://github.com/paulmercy/)
-  - Set up a container orchestration platform (e.g., Kubernetes) for managing containers.
-  - Create deployment scripts and configuration files for the application.
+  - [Containerize the web application using Docker](https://github.com/paulmercy/nodejsapp)
+  - [Set up a container orchestration platform (e.g., Kubernetes) for managing containers](https://github.com/paulmercy/Automated-Kubernetes-cluster-deployment)
+  - [Create deployment scripts and configuration files for the application](https://github.com/paulmercy/Automated-Kubernetes-cluster-deployment/tree/main/scripts)
  
 - <b>Continuous Integration/Continuous Deployment (CI/CD)</b>
-  - [Implement CI/CD pipelines using Github Actions]([https://github.com/paulmercy/](https://github.com/paulmercy/Automated-Kubernetes-cluster-deployment/blob/main/.github/workflows/ci_runner%20.yaml))
+  - [Implement CI/CD pipelines using Github Actions](https://github.com/paulmercy/Automated-Kubernetes-cluster-deployment/blob/main/.github/workflows/ci_runner%20.yaml)
   - [Automate the testing process, including unit tests and integration tests](https://github.com/paulmercy/nodejsapp)
-  - [Configure deployment pipelines to deploy the application to staging and production environments]([https://github.com/paulmercy/](https://github.com/paulmercy/Automated-Kubernetes-cluster-deployment))
+  - [Configure deployment pipelines to deploy the application to staging and production environments](https://github.com/paulmercy/Automated-Kubernetes-cluster-deployment)
     
 - <b>Monitoring</b>
-  - Set up monitoring tools (e.g., Prometheus, Grafana) to track application performance and infrastructure health.
+  - [Set up monitoring tools (e.g., Prometheus, Grafana) to track application performance and infrastructure health](https://github.com/paulmercy/Automated-Kubernetes-cluster-deployment/blob/main/k8s/prometheus.yaml)
     
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/paulmercy/)
+  - [AWS Resource Cleanup Script](https://github.com/paulmercy/AWS-Resource-Cleanup-Script)
 
 <h2>👀 Project Deliverables:</h2>
 
