@@ -16,9 +16,9 @@
   - Create deployment scripts and configuration files for the application.
  
 - <b>Continuous Integration/Continuous Deployment (CI/CD)</b>
-  - [Implement CI/CD pipelines using Jenkins or GitLab CI](https://github.com/paulmercy/)
-  - [Automate the testing process, including unit tests and integration tests](https://github.com/)
-  - [Configure deployment pipelines to deploy the application to staging and production environments](https://github.com/paulmercy/)
+  - [Implement CI/CD pipelines using Github Actions]([https://github.com/paulmercy/](https://github.com/paulmercy/Automated-Kubernetes-cluster-deployment/blob/main/.github/workflows/ci_runner%20.yaml))
+  - [Automate the testing process, including unit tests and integration tests](https://github.com/paulmercy/nodejsapp)
+  - [Configure deployment pipelines to deploy the application to staging and production environments]([https://github.com/paulmercy/](https://github.com/paulmercy/Automated-Kubernetes-cluster-deployment))
     
 - <b>Monitoring</b>
   - Set up monitoring tools (e.g., Prometheus, Grafana) to track application performance and infrastructure health.
