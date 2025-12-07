@@ -5,7 +5,7 @@
 <h2>👨‍💻 Devops Engineer Projects:</h2>
 
 - <b>Infrastructure Setup</b>
-  - [Choose a cloud provider (e.g., AWS, Azure)]
+  - [AWS, Azure]
   - Set up a virtual network, subnets, and security groups.
   - Deploy a database server and configure data replication for high availability.
   - Implement auto-scaling groups for application servers.
